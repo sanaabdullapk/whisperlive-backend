@@ -1,0 +1,19 @@
+# Ignore virtual environments
+backend-env/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Audio files
+*.wav
+*.mp3
+
+# Environment files
+.env
+
+# OS/IDE files
+.DS_Store
+.vscode/
